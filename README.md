@@ -1,8 +1,11 @@
-## Olá mundo, eu sou Matheus Henrique!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=6000&pause=1000&color=CD5C5C&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Matheus+Henrique;I'm+23+years+old;I'm+from+Brazil;Studying+Computer+Science+at+Mackenzie+University)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/matheusapostulo">
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusapostulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusapostulo&layout=compact&langs_count=7&theme=dracula"/> -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusapostulo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusapostulo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
