@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=CD5C5C&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Matheus+Henrique;I'm+24+years+old;I'm+from+Brazil;Studying+Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=CD5C5C&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Matheus+Henrique;I'm+25+years+old;I'm+from+Brazil;Studying+Computer+Science)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusapostulo&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=CD5C5C&bg_color=0d1117" alt="Matheus Henrique github stats" /> 
